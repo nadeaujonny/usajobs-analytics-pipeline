@@ -1,0 +1,14 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# Raw JSON responses
+data/raw/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
